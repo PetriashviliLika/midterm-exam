@@ -178,6 +178,15 @@ ul{
 	    -ms-flex-align: center;
 	        align-items: center;
 }
+.background{
+	width: 59px;
+	height: 58px;
+	background-color: #5863F8;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .container2{
 	position: relative;
 }
